@@ -1,0 +1,35 @@
+[
+  
+  {
+    "Sickness": "Teri",
+    "Room": 1,
+    "FirstName": "Jalol",
+    "LastName": "Jamolov",
+    "Age": 56,
+    "Contact": "976164739"
+  },
+  {
+    "Sickness": "asab",
+    "Room": 12,
+    "FirstName": "joxa",
+    "LastName": "alov",
+    "Age": 23,
+    "Contact": "903456782"
+  },
+  {
+    "Sickness": "Asab kasalligi",
+    "Room": 12,
+    "FirstName": "Samar",
+    "LastName": "Yaxshiyev",
+    "Age": 34,
+    "Contact": "908765432"
+  },
+  {
+    "Sickness": "Umurtqa",
+    "Room": 11,
+    "FirstName": "Sobir",
+    "LastName": "Tohirov",
+    "Age": 45,
+    "Contact": "901234567"
+  }
+]
