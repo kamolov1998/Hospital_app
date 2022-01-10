@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bcdRP1xLrPXRrOgwertUhtJBlDuSj5Bt9shplZptlAfowfpK2eODQuTLsNmK/unXen63R5mgThiDK2Qzw1hwwQ==",
+  "dgSpecHash": "ncGpLM08eNrRFIS12M9jbDz6MRvbQOv8iReCknmv5sQWfjDtxGn156cl2KfLErxEBe+2SG0EzX+hiT4+HA7B0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dotNet\\source\\repos\\Hospital\\Hospital\\Hospital.csproj",
+  "projectFilePath": "C:\\Users\\dotNet\\Documents\\GitHub\\Hospital_app\\Hospital\\Hospital\\Hospital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dotNet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
